@@ -9,7 +9,7 @@ The system is modeled using the Unified Modeling Language (UML) and documented i
 - **Course:** Software Engineering I
 - **University:** Shiraz University
 - **Instructor:** Mrs. Farnoosh Ma'navi
-- **Student:** Alireza Bagher
+- **Student:** Alireza Bagheri
 - **Date:** November 2025
 
 ## Repository Structure
@@ -40,3 +40,4 @@ Illustrates the conceptual classes, attributes, and relationships within the pro
 
 ## Note
 All documentation and models are presented in English to maintain compatibility with international software engineering standards and modeling tools.
+
